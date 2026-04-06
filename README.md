@@ -1,4 +1,4 @@
-# Password Validator
+# SafeLog Password Validator
 
 This project is a Core Java application that checks whether a password follows company security rules.
 
